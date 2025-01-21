@@ -1,3 +1,3 @@
-- 👋 Hi, I’m Max
-- 👀 UI Engnineer
-- 📫 max.zavati@gmail.com
+- 👋 Hi, I’m Max a Front-end Developer
+- 👀 Check my website: maximjsx.com
+- 📫 Contact me: max.zavati@gmail.com
