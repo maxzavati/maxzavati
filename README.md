@@ -1,3 +1,3 @@
-- 👋 Hi, I’m Max a Front-end Developer
+- 👋 Hi, I’m Max a Front-end Engineer
 - 👀 Check my website: https://maximjsx.com
 - 📫 Contact me: max.zavati@gmail.com
