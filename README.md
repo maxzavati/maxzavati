@@ -1,34 +1,31 @@
-<h1 align="center">Hi there 👋, I'm Max</h1>
-<h3 align="center">Experienced Frontend & React Engineer</h3>
+<h1>Hi there 👋, I'm Max</h1>
+<h3>Experienced Frontend & React Engineer</h3>
 
----
 
 ### 🚀 Core Tech Stack
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="SCSS" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/remix-run/remix/main/public/favicon-32.png" alt="Remix" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript" alt="TypeScript" />
+  <img src="https://img.shields.io/static/v1?message=React&logo=react&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20" alt="React" />
+  <img src="https://img.shields.io/badge/-Redux-090909?style=for-the-badge&logo=Redux" alt="Redux" />
+  <img src="https://img.shields.io/badge/-Remix-090909?style=for-the-badge&logo=Remix" alt="Remix" />
+  <img src="https://img.shields.io/badge/-Node.js-090909?style=for-the-badge&logo=node.js" alt="Node.js" />
+  <img src="https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=HTML5" alt="HTML5" />
+  <img src="https://img.shields.io/badge/-CSS3-090909?style=for-the-badge&logo=CSS3" alt="CSS3" />
+  <img src="https://img.shields.io/badge/-Sass-090909?style=for-the-badge&logo=Sass" alt="Sass" />
+  <img src="https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git" alt="Git" />
+  <img src="https://img.shields.io/badge/-VSCode-090909?style=for-the-badge&logo=VisualStudioCode" alt="VSCode" />
 </p>
 
----
 
 ### 📫 How to reach me
 
 - 📧 **Email:** max.zavati@gmail.com  
 - 💼 **LinkedIn:** [linkedin.com/in/max-zavati](https://www.linkedin.com/in/maxzavati)
 
----
 
 ### ⚡ Fun Fact
 
 Experienced in building high-performance web apps, admin panels, and websites using various technologies, with a strong focus on React and its ecosystem, including both client and server components. Involved in server-side development, middlewares, CMS systems, and plugins. Experienced in working with complex data and turning it into intuitive, performant interfaces. Strong attention to polished UI/UX, clean styles, and accessibility. Always thinking through features and edge cases to ensure a smooth user experience.
 
----
