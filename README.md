@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Max — an Experienced Frontend & React Engineer
+### 👋 Hi there, I'm Max — an Experienced Frontend & React Engineer
 
 
 #### 🚀 Core Tech Stack
