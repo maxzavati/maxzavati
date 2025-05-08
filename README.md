@@ -2,6 +2,8 @@
 <h3>Experienced Frontend & React Engineer</h3>
 
 
+
+
 ### 🚀 Core Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript)  
@@ -19,13 +21,13 @@
 
 
 
-### 📫 How to reach me
 
+
+### 📫 How to reach me
 - 📧 **Email:** max.zavati@gmail.com  
 - 💼 **LinkedIn:** [linkedin.com/in/max-zavati](https://www.linkedin.com/in/maxzavati)
 
 
-### ⚡ Fun Fact
-
+### ⚡ What I do
 Experienced in building high-performance web apps, admin panels, and websites using various technologies, with a strong focus on React and its ecosystem, including both client and server components. Involved in server-side development, middlewares, CMS systems, and plugins. Experienced in working with complex data and turning it into intuitive, performant interfaces. Strong attention to polished UI/UX, clean styles, and accessibility. Always thinking through features and edge cases to ensure a smooth user experience.
 
