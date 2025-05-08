@@ -3,20 +3,20 @@
 
 
 ### 🚀 Core Tech Stack
+![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript)  
+![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=react)
+![HTML5](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=HTML5)
+![CSS3](https://img.shields.io/badge/-CSS3-090909?style=for-the-badge&logo=CSS3)
+![SCSS](https://img.shields.io/badge/-SCSS-090909?style=for-the-badge&logo=SASS)
+![Redux](https://img.shields.io/badge/-Redux-090909?style=for-the-badge&logo=redux)
+![NodeJS](https://img.shields.io/badge/-Node.js-090909?style=for-the-badge&logo=Node.js)  
+![ESLint](https://img.shields.io/badge/-ESLint-090909?style=for-the-badge&logo=ESLint)
+![MaterialUI](https://img.shields.io/badge/-MaterialUI-090909?style=for-the-badge&logo=MUI)
+![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git)  
+![Remix](https://img.shields.io/badge/-Remix-090909?style=for-the-badge&logo=Remix&logoColor=white)
+![Vite](https://img.shields.io/badge/-Vite-090909?style=for-the-badge&logo=Vite&logoColor=white)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript" alt="TypeScript" />
-  <img src="https://img.shields.io/static/v1?message=React&logo=react&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20" alt="React" />
-  <img src="https://img.shields.io/badge/-Redux-090909?style=for-the-badge&logo=Redux" alt="Redux" />
-  <img src="https://img.shields.io/badge/-Remix-090909?style=for-the-badge&logo=Remix" alt="Remix" />
-  <img src="https://img.shields.io/badge/-Node.js-090909?style=for-the-badge&logo=node.js" alt="Node.js" />
-  <img src="https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=HTML5" alt="HTML5" />
-  <img src="https://img.shields.io/badge/-CSS3-090909?style=for-the-badge&logo=CSS3" alt="CSS3" />
-  <img src="https://img.shields.io/badge/-Sass-090909?style=for-the-badge&logo=Sass" alt="Sass" />
-  <img src="https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git" alt="Git" />
-  <img src="https://img.shields.io/badge/-VSCode-090909?style=for-the-badge&logo=VisualStudioCode" alt="VSCode" />
-</p>
 
 
 ### 📫 How to reach me
