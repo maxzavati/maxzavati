@@ -1,19 +1,19 @@
-## Hi there 👋 I'm Max
-## Experienced Frontend & React Engineer
+### Hi there 👋 I'm Max
+### Experienced Frontend & React Engineer
 
 ### 🚀 Core Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript)  
+![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript)
 ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=react)
 ![Redux](https://img.shields.io/badge/-Redux-090909?style=for-the-badge&logo=redux)
 ![Remix](https://img.shields.io/badge/-Remix-090909?style=for-the-badge&logo=Remix&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-090909?style=for-the-badge&logo=CSS3)
 ![SCSS](https://img.shields.io/badge/-SCSS-090909?style=for-the-badge&logo=SASS)
-![NodeJS](https://img.shields.io/badge/-Node.js-090909?style=for-the-badge&logo=Node.js)  
-![MaterialUI](https://img.shields.io/badge/-MaterialUI-090909?style=for-the-badge&logo=MUI)
-![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git)  
+![NodeJS](https://img.shields.io/badge/-Node.js-090909?style=for-the-badge&logo=Node.js)
 ![Vite](https://img.shields.io/badge/-Vite-090909?style=for-the-badge&logo=Vite&logoColor=white)
+![MaterialUI](https://img.shields.io/badge/-MaterialUI-090909?style=for-the-badge&logo=MUI)
+![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git)
 
 ### 📫 Reach me
 - **Email:** max.zavati@gmail.com  
