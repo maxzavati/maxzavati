@@ -1,7 +1,5 @@
 ## Hi there 👋 I'm Max
-### Experienced Frontend & React Engineer
-
----
+## Experienced Frontend & React Engineer
 
 ### 🚀 Core Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
