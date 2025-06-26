@@ -1,4 +1,5 @@
-## 💻 [maxzavati.com](https://maxzavati.com)
+## 💻 [My Website](https://maxzavati.com)
+## 💻 [Read CV](https://maxzavati.com/cv.pdf)
 
 ## GoChamp Fitness App
 At Engenious, I worked as the Lead Frontend Engineer for a white-label fitness product. I architected the frontend in collaboration with a backend engineer to integrate a custom backend and payment system. The product serves as a user onboarding, profile management and data collection funnel, with a key objective of avoiding high payment processing fees from the Google and Apple app stores.
