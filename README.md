@@ -1,5 +1,3 @@
-## 💻 [My Website](https://maxzavati.com) | [Read CV](https://maxzavati.com/cv.pdf)
-
 ## 🦾 Projects
 
 ### GoChamp Fitness App
