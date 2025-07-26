@@ -7,11 +7,11 @@ The project was built using React and TypeScript, and includes the following cor
 - Subscription payments with Stripe
 - User profile management
 - Google Analytics integration
-
+#### Links
 - 🎬 [Watch the showcase on Vimeo](https://vimeo.com/1055877205/7e9e113a9d)  
 - 🌐 [Try it live](https://gochamp.fit/)
 
-
+<br/><br/>
 
 ## 🦾 Repositories
 Below are repositories containing some examples of things I've been implementing in my day-to-day job, as well as some for study and practice.
